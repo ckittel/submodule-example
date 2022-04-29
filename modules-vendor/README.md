@@ -2,5 +2,5 @@ These are modules provided by vendors, imported as submodules to track their ups
 
 ## Vendors included:
 
-* CARML (verion blahh)
+* CARML (version 0.3.0)
 

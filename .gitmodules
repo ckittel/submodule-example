@@ -1,0 +1,3 @@
+[submodule "modules-vendor/microsoft-carml"]
+	path = modules-vendor/microsoft-carml
+	url = https://github.com/Azure/ResourceModules
